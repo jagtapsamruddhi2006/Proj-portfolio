@@ -12,7 +12,7 @@ const portfolioData = {
   // ----------------------------------------------------------
   // 🧑 PERSONAL INFO
   // ----------------------------------------------------------
-  name: "Samruddhi Jagtap",
+  name: "Samruddhi Ravindra Jagtap",
   firstName: "Samruddhi",   // Used in the hero greeting
   lastName: "Jagtap",      // Displayed large in the hero section
   tagline: "Engineering Student & Aspiring Developer",
